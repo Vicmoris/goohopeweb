@@ -1,7 +1,5 @@
 import Link from 'next/link';
-import { Twitter, Facebook, Instagram } from 'lucide-react';
 import { Logo } from '@/components/icons';
-import { Button } from '@/components/ui/button';
 
 export default function Footer() {
   return (
@@ -64,17 +62,6 @@ export default function Footer() {
             </Link>
             . All Rights Reserved.
           </span>
-          <div className="flex mt-4 sm:justify-center sm:mt-0 space-x-2">
-            <Button variant="ghost" size="icon" asChild>
-                <a href="#"><Facebook className="w-5 h-5 text-muted-foreground" /><span className="sr-only">Facebook</span></a>
-            </Button>
-            <Button variant="ghost" size="icon" asChild>
-                <a href="#"><Instagram className="w-5 h-5 text-muted-foreground" /><span className="sr-only">Instagram</span></a>
-            </Button>
-            <Button variant="ghost" size="icon" asChild>
-                <a href="#"><Twitter className="w-5 h-5 text-muted-foreground" /><span className="sr-only">Twitter</span></a>
-            </Button>
-          </div>
         </div>
       </div>
     </footer>

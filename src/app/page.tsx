@@ -21,7 +21,6 @@ export default function Home() {
               fill
               className="object-cover"
               priority
-              data-ai-hint={heroImage.imageHint}
             />
           )}
           <div className="absolute inset-0 bg-primary/70" />
@@ -113,7 +112,6 @@ export default function Home() {
                           alt={itemImage.description}
                           fill
                           className="object-cover"
-                          data-ai-hint={itemImage.imageHint}
                         />
                        </div>
                     )}
