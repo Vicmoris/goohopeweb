@@ -10,7 +10,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2">
               <Logo className="h-8 w-8 text-primary" />
               <span className="self-center text-2xl font-headline font-semibold whitespace-nowrap text-primary">
-                GoodHope Hub
+                GoodHope International School
               </span>
             </Link>
             <p className="mt-2 text-muted-foreground max-w-xs">
