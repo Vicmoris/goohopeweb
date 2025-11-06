@@ -80,7 +80,7 @@ export default function AboutPage() {
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
            {campusImage && (
             <div className="rounded-lg overflow-hidden shadow-lg order-last lg:order-first">
-              <Image
+              <img
                 src={campusImage.imageUrl}
                 alt={campusImage.description}
                 // width={600}
