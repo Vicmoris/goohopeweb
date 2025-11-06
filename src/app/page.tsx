@@ -111,7 +111,7 @@ export default function Home() {
                           src={itemImage.imageUrl}
                           alt={itemImage.description}
                           // fill
-                          className="object-cover"
+                          className="object-cover fill h-1/2 w-full"
                         />
                        </div>
                     )}
