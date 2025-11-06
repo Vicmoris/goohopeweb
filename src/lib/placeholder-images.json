@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-students-walking",
+      "description": "A group of happy students walking on campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1693010909469-aace53ce1cc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHVkZW50cyUyMGNhbXB1c3xlbnwwfHx8fDE3NjI0NTU2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students campus"
+    },
+    {
+      "id": "gallery-science-class",
+      "description": "Students engaged in a science experiment in a modern laboratory.",
+      "imageUrl": "https://images.unsplash.com/photo-1758685734030-a31d96462eec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2llbmNlJTIwY2xhc3N8ZW58MHx8fHwxNzYyNDUxMDczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science class"
+    },
+    {
+      "id": "gallery-library",
+      "description": "A quiet and well-stocked school library with students reading.",
+      "imageUrl": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2hvb2wlMjBsaWJyYXJ5fGVufDB8fHx8MTc2MjQ1Mzc2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school library"
+    },
+    {
+      "id": "gallery-art-class",
+      "description": "A student painting on a canvas during an art class.",
+      "imageUrl": "https://images.unsplash.com/photo-1578961140619-896df05b1fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBjbGFzc3xlbnwwfHx8fDE3NjIzNDg2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art class"
+    },
+    {
+      "id": "gallery-sports-day",
+      "description": "Students competing in a race on sports day.",
+      "imageUrl": "https://images.unsplash.com/photo-1613425295165-dc4a15a98bbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2hvb2wlMjBzcG9ydHN8ZW58MHx8fHwxNzYyNDA1MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school sports"
+    },
+    {
+      "id": "gallery-graduation",
+      "description": "Graduates in caps and gowns tossing them in the air.",
+      "imageUrl": "https://images.unsplash.com/photo-1719409015960-22ec93278e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50JTIwZ3JhZHVhdGlvbnxlbnwwfHx8fDE3NjI0NTU2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student graduation"
+    },
+    {
+      "id": "gallery-music-room",
+      "description": "Students playing various musical instruments in a music room.",
+      "imageUrl": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdXNpYyUyMGNsYXNzfGVufDB8fHx8MTc2MjQ1NTY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music class"
+    },
+    {
+      "id": "gallery-playground",
+      "description": "Younger students playing on the school playground.",
+      "imageUrl": "https://images.unsplash.com/photo-1710000736115-692bbb897fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTc2MjQ0Mjk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school playground"
+    },
+    {
+      "id": "gallery-coding-club",
+      "description": "Students working on laptops in a coding club.",
+      "imageUrl": "https://images.unsplash.com/photo-1540058404349-2e5fabf32d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdHVkZW50cyUyMGNvZGluZ3xlbnwwfHx8fDE3NjI0MTAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students coding"
+    }
+  ]
 }
