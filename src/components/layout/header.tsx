@@ -27,7 +27,7 @@ export default function Header() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2" onClick={() => setIsMobileMenuOpen(false)}>
           <Logo className="h-8 w-8 text-primary" />
-          <span className="font-headline text-xl font-bold text-primary">GoodHope Hub</span>
+          <span className="font-headline text-xl font-bold text-primary">GoodHope International School</span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-6">
