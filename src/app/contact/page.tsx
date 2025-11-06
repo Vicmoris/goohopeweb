@@ -23,7 +23,7 @@ export default function ContactPage() {
                   <MapPin className="w-6 h-6 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Our Address</h3>
-                    <p>123 Education Lane, Knowledge City, 12345</p>
+                    <p>No 25 Chief Jacob Street, Woji, PortHarcourt</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -37,7 +37,7 @@ export default function ContactPage() {
                   <Phone className="w-6 h-6 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Call Us</h3>
-                    <p>+1 (234) 567-890</p>
+                    <p>+234 808 174 0062</p>
                   </div>
                 </div>
               </div>

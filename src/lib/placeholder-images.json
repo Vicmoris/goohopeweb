@@ -2,57 +2,57 @@
   "placeholderImages": [
     {
       "id": "hero-students-walking",
-      "description": "A group of happy students walking on campus.",
-      "imageUrl": "https://images.unsplash.com/photo-1693010909469-aace53ce1cc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHVkZW50cyUyMGNhbXB1c3xlbnwwfHx8fDE3NjI0NTU2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "students campus"
+      "description": "A group of happy black students walking and smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1530030586922-687498c09641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxibGFjayUyMHN0dWRlbnRzfGVufDB8fHx8MTcyMDczNzQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black students"
     },
     {
       "id": "gallery-science-class",
-      "description": "Students engaged in a science experiment in a modern laboratory.",
-      "imageUrl": "https://images.unsplash.com/photo-1758685734030-a31d96462eec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2llbmNlJTIwY2xhc3N8ZW58MHx8fHwxNzYyNDUxMDczfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "science class"
+      "description": "Young black students in a science class, looking at a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1629425952839-84d555694770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMHN0dWRlbnQlMjBzY2llbmNlfGVufDB8fHx8MTcyMDczNzU2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black student science"
     },
     {
       "id": "gallery-library",
-      "description": "A quiet and well-stocked school library with students reading.",
-      "imageUrl": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2hvb2wlMjBsaWJyYXJ5fGVufDB8fHx8MTc2MjQ1Mzc2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "school library"
+      "description": "A young black child reading a book in a library.",
+      "imageUrl": "https://images.unsplash.com/photo-1532074534363-a086111a5091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMGNoaWxkJTIwcmVhZGluZ3xlbnwwfHx8fDE3MjA3Mzc2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black child reading"
     },
     {
       "id": "gallery-art-class",
-      "description": "A student painting on a canvas during an art class.",
-      "imageUrl": "https://images.unsplash.com/photo-1578961140619-896df05b1fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBjbGFzc3xlbnwwfHx8fDE3NjIzNDg2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "art class"
+      "description": "A young black child painting on a canvas.",
+      "imageUrl": "https://images.unsplash.com/photo-1531303833333-60a3403a6555?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMGNoaWxkJTIwcGFpbnRpbmd8ZW58MHx8fHwxNzIwNzM3NjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black child painting"
     },
     {
       "id": "gallery-sports-day",
-      "description": "Students competing in a race on sports day.",
-      "imageUrl": "https://images.unsplash.com/photo-1613425295165-dc4a15a98bbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2hvb2wlMjBzcG9ydHN8ZW58MHx8fHwxNzYyNDA1MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "school sports"
+      "description": "A group of black children playing football.",
+      "imageUrl": "https://images.unsplash.com/photo-1574629810360-1eca09a35255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibGFjayUyMGNoaWxkcmVuJTIwcGxheWluZyUyMGZvb3RiYWxsfGVufDB8fHx8MTcyMDczNzc2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black children football"
     },
     {
       "id": "gallery-graduation",
-      "description": "Graduates in caps and gowns tossing them in the air.",
-      "imageUrl": "https://images.unsplash.com/photo-1719409015960-22ec93278e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50JTIwZ3JhZHVhdGlvbnxlbnwwfHx8fDE3NjI0NTU2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "student graduation"
+      "description": "A young black woman in a graduation gown smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1599839615598-543c3339d592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMHN0dWRlbnQlMjBncmFkdWF0aW9ufGVufDB8fHx8MTcyMDczNzgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black student graduation"
     },
     {
       "id": "gallery-music-room",
-      "description": "Students playing various musical instruments in a music room.",
-      "imageUrl": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdXNpYyUyMGNsYXNzfGVufDB8fHx8MTc2MjQ1NTY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "music class"
+      "description": "A young black child playing a guitar.",
+      "imageUrl": "https://images.unsplash.com/photo-1598488352332-a25a072a39a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMGNoaWxkJTIwcGxheWluZyUyMGd1aXRhcnxlbnwwfHx8fDE3MjA3Mzc4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black child guitar"
     },
     {
       "id": "gallery-playground",
-      "description": "Younger students playing on the school playground.",
-      "imageUrl": "https://images.unsplash.com/photo-1710000736115-692bbb897fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2hvb2wlMjBwbGF5Z3JvdW5kfGVufDB8fHx8MTc2MjQ0Mjk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "school playground"
+      "description": "A group of black children playing on a swing set.",
+      "imageUrl": "https://images.unsplash.com/photo-1510023077811-3964111aa627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMGNoaWxkcmVuJTIwb24lMjBzd2luZ3N8ZW58MHx8fHwxNzIwNzM3ODk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black children swings"
     },
     {
       "id": "gallery-coding-club",
-      "description": "Students working on laptops in a coding club.",
-      "imageUrl": "https://images.unsplash.com/photo-1540058404349-2e5fabf32d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdHVkZW50cyUyMGNvZGluZ3xlbnwwfHx8fDE3NjI0MTAxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "students coding"
+      "description": "A young black student working on a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496773905-f5b17e76b254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibGFjayUyMHN0dWRlbnQlMjB3aXRoJTIwbGFwdG9wfGVufDB8fHx8MTcyMDczNzkzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black student laptop"
     }
   ]
 }

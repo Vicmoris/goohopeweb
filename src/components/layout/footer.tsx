@@ -37,11 +37,8 @@ export default function Footer() {
             <div>
               <h2 className="mb-6 text-sm font-semibold text-foreground uppercase">Resources</h2>
               <ul className="text-muted-foreground font-medium">
-                <li className="mb-4">
-                  <Link href="/curriculum" className="hover:underline">Curriculum</Link>
-                </li>
                 <li>
-                  <Link href="/gallery" className="hover:underline">Gallery</Link>
+                  <Link href="/about" className="hover:underline">About</Link>
                 </li>
               </ul>
             </div>

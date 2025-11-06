@@ -14,9 +14,7 @@ import { Logo } from '@/components/icons';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/about', label: 'About' },
-  { href: '/curriculum', label: 'Curriculum' },
   { href: '/admissions', label: 'Admissions' },
-  { href: '/gallery', label: 'Gallery' },
   { href: '/contact', label: 'Contact' },
 ];
 

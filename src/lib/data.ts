@@ -1,3 +1,4 @@
+
 export const newsAndEvents = [
   {
     id: 1,
@@ -30,55 +31,19 @@ export const newsAndEvents = [
 ];
 
 export const primaryCurriculum = [
-  {
-    subject: 'English Language Arts',
-    description: 'Developing strong reading, writing, and communication skills through literature and creative expression.',
-  },
-  {
-    subject: 'Mathematics',
-    description: 'Building a solid foundation in numerical literacy, problem-solving, and logical thinking.',
-  },
-  {
-    subject: 'Science',
-    description: 'Exploring the natural world through hands-on experiments and inquiry-based learning.',
-  },
-  {
-    subject: 'Social Studies',
-    description: 'Understanding diverse cultures, historical events, and our role as global citizens.',
-  },
-  {
-    subject: 'Visual Arts',
-    description: 'Nurturing creativity and self-expression through various artistic mediums.',
-  },
-  {
-    subject: 'Physical Education',
-    description: 'Promoting a healthy lifestyle, teamwork, and physical fitness through sports and activities.',
-  },
+    { subject: 'English Language', description: 'Developing strong reading, writing, and communication skills through literature and interactive exercises.' },
+    { subject: 'Mathematics', description: 'Building a solid foundation in arithmetic, problem-solving, and logical reasoning.' },
+    { subject: 'Basic Science', description: 'Exploring the natural world through hands-on experiments and foundational scientific concepts.' },
+    { subject: 'Social Studies', description: 'Understanding community, culture, and history to foster responsible citizenship.' },
+    { subject: 'Creative Arts', description: 'Nurturing creativity and self-expression through drawing, painting, and crafts.' },
+    { subject: 'Physical Education', description: 'Promoting a healthy lifestyle with fun physical activities, sports, and games.' },
 ];
 
 export const secondaryCurriculum = [
-  {
-    subject: 'Advanced English Literature',
-    description: 'A deep dive into classic and contemporary literary works, focusing on critical analysis and interpretation.',
-  },
-  {
-    subject: 'Calculus & Advanced Mathematics',
-    description: 'Mastering complex mathematical concepts and their applications in real-world scenarios.',
-  },
-  {
-    subject: 'Biology, Chemistry & Physics',
-    description: 'In-depth study of the life, physical, and chemical sciences to prepare for higher education.',
-  },
-  {
-    subject: 'World History & Global Politics',
-    description: 'Analyzing significant global events and political systems to foster informed citizenship.',
-  },
-  {
-    subject: 'Computer Science & Coding',
-    description: 'Developing computational thinking and programming skills with modern technologies.',
-  },
-  {
-    subject: 'Economics',
-    description: 'Understanding the principles of market economies, finance, and global trade.',
-  },
+    { subject: 'English & Literature', description: 'Advanced studies in classic and contemporary literature, composition, and critical analysis.' },
+    { subject: 'Advanced Mathematics', description: 'Covering algebra, geometry, calculus, and statistics to prepare for higher education.' },
+    { subject: 'Integrated Science', description: 'In-depth study of biology, chemistry, and physics with a focus on laboratory skills.' },
+    { subject: 'History & Government', description: 'Analyzing historical events and political systems to understand global dynamics.' },
+    { subject: 'Computer Science', description: 'Introducing programming, digital literacy, and computational thinking.' },
+    { subject: 'Fine Arts & Music', description: 'Offering specialized tracks in visual arts, music theory, and performance.' },
 ];
