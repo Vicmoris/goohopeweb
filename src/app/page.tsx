@@ -107,10 +107,10 @@ export default function Home() {
                   <Card key={item.id} className="overflow-hidden flex flex-col">
                     {itemImage && (
                        <div className="relative h-48 w-full">
-                         <Image
+                         <img
                           src={itemImage.imageUrl}
                           alt={itemImage.description}
-                          fill
+                          // fill
                           className="object-cover"
                         />
                        </div>
