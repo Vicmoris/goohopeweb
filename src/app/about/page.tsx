@@ -39,7 +39,7 @@ export default function AboutPage() {
                 alt={libraryImage.description}
                 // width={600}
                 // height={400}
-                className="w-full max-w-[400px] h-auto max-h-[400] object-cover"
+                className="w-full h-auto object-cover"
                 data-ai-hint={libraryImage.imageHint}
               />
             </div>
@@ -83,8 +83,8 @@ export default function AboutPage() {
               <Image
                 src={campusImage.imageUrl}
                 alt={campusImage.description}
-                width={600}
-                height={400}
+                // width={600}
+                // height={400}
                 className="w-full h-auto object-cover"
               />
             </div>
