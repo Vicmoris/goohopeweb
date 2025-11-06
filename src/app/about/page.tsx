@@ -11,7 +11,7 @@ export default function AboutPage() {
     <div className="bg-background">
       <div className="container mx-auto px-4 py-16 md:py-24">
         <header className="text-center mb-16">
-          <h1 className="text-4xl md:text-5xl font-headline font-bold text-primary">About GoodHope International</h1>
+          <h1 className="text-4xl md:text-5xl font-headline font-bold text-primary">About GoodHope International School</h1>
           <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
             Discover our journey, our purpose, and the principles that guide us in providing an exceptional educational experience.
           </p>
@@ -34,12 +34,12 @@ export default function AboutPage() {
           </div>
           {libraryImage && (
             <div className="rounded-lg overflow-hidden shadow-lg">
-              <Image
+              <img
                 src={libraryImage.imageUrl}
                 alt={libraryImage.description}
-                width={600}
-                height={400}
-                className="w-full h-auto object-cover"
+                // width={600}
+                // height={400}
+                className="w-full max-w-[400px] h-auto max-h-[400] object-cover"
                 data-ai-hint={libraryImage.imageHint}
               />
             </div>
