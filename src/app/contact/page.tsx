@@ -30,7 +30,7 @@ export default function ContactPage() {
                   <Mail className="w-6 h-6 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Email Us</h3>
-                    <a href="mailto:hello@goodhope.com" className="hover:underline text-primary font-medium">hello@goodhope.com</a>
+                    <a href="mailto:hello@goodhope.com" className="hover:underline text-primary font-medium">hello@goodhopeinternationalschools.com</a>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
